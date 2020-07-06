@@ -56,4 +56,30 @@
 [18] Ga-Un Jeong et al., Calphad, 2018, 62, 172-186 (https://doi.org/10.1016/j.calphad.2018.06.006), Pd-M (Al, Co, Cu, Fe, Mo, Ni, Ti)
 
 
+[19] H-S. Jang et al., Calphad, 2019,  67, 101674 (https://www.sciencedirect.com/science/article/abs/pii/S0364591619300847?via%3Dihub)
+
+
+[20] B-J. Lee at al., Acta Materialis, 2006, 54, 4597-4607 (https://www.sciencedirect.com/science/article/abs/pii/S1359645406004150?via%3Dihub#!)
+
+
+[21] E. Lee et al., J. Phys.: Condens. Matter, 2010, 22, 175702 (https://iopscience.iop.org/article/10.1088/0953-8984/22/17/175702)
+
+
+[22] W-M. Choi et al., Computational Materials, 2018, 4, (https://www.nature.com/articles/s41524-017-0060-9) (open access)
+
+
+[23] Y-K. Kim et al., Model. Simul. Mater. SC, 2015, 23 (https://iopscience.iop.org/article/10.1088/0965-0393/23/5/055004)
+
+
+[24-25] Y-K. Kim et al., Comput. Mater. Sci., 2017, 139, 225-233 (https://www.sciencedirect.com/science/article/abs/pii/S0927025617304081?via%3Dihub)
+
+
+[26-27] H-S. Jang et al., Calphad, 2018, 60, 200-207 (https://www.sciencedirect.com/science/article/abs/pii/S0364591617302055?via%3Dihub)
+
+
+[28-29] Ki-H. Kim et al., Calphad, 2017, 57, 55-61 (https://www.sciencedirect.com/science/article/abs/pii/S0364591616302267?via%3Dihub)
+
+
+[30] Y-M. Kim et al., Acta Materialia, 2008, 56, 3481-3489 (https://www.sciencedirect.com/science/article/abs/pii/S0364591616302267?via%3Dihub)
+
 [XX] KIFF Database - 2NN MEAM (http://kiff.vfab.org/twonnmeam)
