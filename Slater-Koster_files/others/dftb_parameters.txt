@@ -1,0 +1,36 @@
+--------------------------------------------------------------------------------
+[1] Self-Consistent Charge Density-Functional Tight-Binding Parametrization for Pt-Ru Alloys
+
+Pt, Ru
+J. Phys. Chem. A 2017, 121, 12, 2497-2502
+Publication Date:March 7, 2017
+https://doi.org/10.1021/acs.jpca.7b00701
+--------------------------------------------------------------------------------
+[2] Correction to ÅgSelf-Consistent Charge Density-Functional Tight-Binding Parameterization for Pt-Ru AlloysÅh
+
+Pt, Ru
+J. Phys. Chem. A 2018, 122, 15, 3958
+Publication Date:April 5, 2018
+https://doi.org/10.1021/acs.jpca.8b02894
+--------------------------------------------------------------------------------
+[3] DFTB-Assisted Global Structure Optimization of 13- and 55-Atom Late Transition Metal Clusters Maxime Van den Bossche
+
+Ag, Au, Cu, Ni, Pd, Pt
+J. Phys. Chem. A 2019, 123, 13, 3038-3045
+Publication Date:March 7, 2019
+https://doi.org/10.1021/acs.jpca.9b00927
+--------------------------------------------------------------------------------
+[4] SCC-DFTB Parameters for Fe-C Interactions
+
+Fe-C, Fe-O
+J. Phys. Chem. A 2020, 124, 46, 9674-9682
+Publication Date:November 9, 2020
+https://doi.org/10.1021/acs.jpca.0c08202
+--------------------------------------------------------------------------------
+[5] Development of Density-Functional Tight-Binding Parameters for the Molecular Dynamics Simulation of Zirconia, Yttria, and Yttria-Stabilized Zirconia
+
+Zr, Y, O
+ACS Omega 2021, 6, 31, 20530-20548
+Publication Date:July 31, 2021
+https://doi.org/10.1021/acsomega.1c02411
+--------------------------------------------------------------------------------
