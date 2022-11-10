@@ -13,7 +13,7 @@ Cite this: J. Phys. Chem. B 2018, 122, 9, 2600-2609
 Publication Date:February 12, 2018
 https://doi.org/10.1021/acs.jpcb.7b10589
 --------------------------------------------------------------------------------
-[3] Correction to ÅgSelf-Consistent Charge Density-Functional Tight-Binding Parameterization for Pt-Ru AlloysÅh
+[3] Correction to Self-Consistent Charge Density-Functional Tight-Binding Parameterization for Pt-Ru Alloys
 
 Pt, Ru
 J. Phys. Chem. A 2018, 122, 15, 3958
@@ -40,6 +40,13 @@ Zr, Y, O
 ACS Omega 2021, 6, 31, 20530-20548
 Publication Date:July 31, 2021
 https://doi.org/10.1021/acsomega.1c02411
+--------------------------------------------------------------------------------
+[7] How the Size and Density of Charge-Transfer Excitons Depend on HeterojunctionÅfs Architecture
+
+Re-parametrized OB2 Slater-Koster parameters
+J. Phys. Chem. C 2021, 125, 10, 5458-5474
+Publication Date:March 3, 2021
+https://doi.org/10.1021/acs.jpcc.0c10762
 --------------------------------------------------------------------------------
 [X] Charge and Exciton Transfer Simulations Using Machine-Learned Hamiltonians
 
